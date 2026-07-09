@@ -1,0 +1,26 @@
+# Keil/MDK build outputs
+MDK-ARM/car_init/
+*.o
+*.d
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.htm
+*.crf
+*.iex
+
+# Logs and temporary files
+*.log
+tmp/
+
+# Editor/OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
